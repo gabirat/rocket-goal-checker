@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1529264653 source:c:\users\gabirat\desktop\c++\rl-goal-checker\main.cpp
+	<iostream>
+	<windows.h>
+	"SerialPort.h"
+
+1529257248 source:c:\users\gabirat\desktop\c++\rl-goal-checker\src\serialport.cpp
+	"SerialPort.h"
+
+1529257238 c:\users\gabirat\desktop\c++\rl-goal-checker\include\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
